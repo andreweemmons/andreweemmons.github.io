@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/tukah.jpg
 title: Cloud Canvas
-permalink: projects/tukah
+permalink: projects/tukah.md
 # All dates must be YYYY-MM-DD format!
 date: 2019-11-31
 labels:
