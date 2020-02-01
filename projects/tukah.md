@@ -1,15 +1,15 @@
 ---
 layout: project
 type: project
-image: images/cloudcanvas.jpg
+image: images/tukah.jpg
 title: Cloud Canvas
-permalink: projects/cloudcanvas
+permalink: projects/tukah
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2019-11-31
 labels:
-  - Lisp
-  - GitHub
-summary: Cloud Canvas is a rock band that I am apart of. I am the frontman, as well as the band manager.
+  - PHP
+  - MySql
+summary: Over the summer of 2019, I was able to find a client to build and maintain a website for, collecting data, and analyzing statistics.
 ---
 
 <img class="ui medium right floated rounded image" src="/images/kawebsitelogo.jpg">
