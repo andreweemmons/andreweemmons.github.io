@@ -2,14 +2,14 @@
 layout: project
 type: project
 image: images/kawebsitelogo.jpg
-title: Korean Association
+title: Korean Association Project
 permalink: projects/tukah
 # All dates must be YYYY-MM-DD format!
 date: 2014-04-12
 labels:
-  - Lisp
-  - GitHub
-summary: Cloud Canvas is a rock band that I am apart of. I am the frontman, as well as the band manager.
+  - HTML
+  - CSS
+summary: Last summer, I had the opportunity to build a website for an election.
 ---
 
 <img class="ui medium right floated rounded image" src="/images/cloudcanvas.jpg">
