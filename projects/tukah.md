@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/tukah.jpg
-title: Cloud Canvas
+image: images/kawebsitelogo.jpg
+title: My first experience with PHP and MySQL
 permalink: projects/tukah.md
 # All dates must be YYYY-MM-DD format!
 date: 2019-11-31
