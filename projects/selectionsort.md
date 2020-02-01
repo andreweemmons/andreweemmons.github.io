@@ -9,7 +9,7 @@ date: 2014-04-12
 labels:
   - Sorting
   - Java
-summary: Cloud Canvas is a rock band that I am apart of. I am the frontman, as well as the band manager.
+summary: Selection sort is a sorting algorithm that I was able to learn last semester.
 ---
 
 <img class="ui medium right floated rounded image" src="/images/selectionsort.png">
