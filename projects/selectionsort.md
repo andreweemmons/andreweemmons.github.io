@@ -5,7 +5,7 @@ image: images/selectionsort.png
 title: Selection Sort
 permalink: projects/selectionsort
 # All dates must be YYYY-MM-DD format!
-date: 2019-09-31
+date: 2019-09-28
 labels:
   - Sorting
   - Java
