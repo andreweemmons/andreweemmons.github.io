@@ -5,7 +5,7 @@ image: images/kawebsitelogo.jpg
 title: Korean Association Project
 permalink: projects/tukah
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2019-11-31
 labels:
   - HTML
   - CSS
