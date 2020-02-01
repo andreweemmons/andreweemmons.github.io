@@ -5,7 +5,7 @@ image: images/cloudcanvas.jpg
 title: Cloud Canvas
 permalink: projects/cloudcanvas
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2020-01-31
 labels:
   - Lisp
   - GitHub
