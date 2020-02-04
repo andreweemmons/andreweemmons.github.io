@@ -9,6 +9,7 @@ labels:
   - SmartQuestions
   - Feedback
 ---
+Hello!
 
 Learning how to program is never easy. It requires us to look up a solution to a particular question, that we might feel we only have in mind. To approach this scenario, we can use smart questions to obtain the right feedback. Smart questions are important to us because they help us establish a way to recieve constructive feedback from real engineers with experience. By creating smart questions, we know that we will often get a thoughtful response, when an expert gives us the time of day to do so. When asking stupid questions, we can come accross as ignorant and wasteful to the time of the reader. Smart questions help us figure out things that cannot be figured out on our own.
 
