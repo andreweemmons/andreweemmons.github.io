@@ -1,5 +1,4 @@
 ---
----
 layout: essay
 type: essay
 title: Coding Standards
