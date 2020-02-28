@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: How Frameworks can be Helpful
+title: How helpful are frameworks?
 date: 2020-02-27
 labels:
   - UI Frameworks
