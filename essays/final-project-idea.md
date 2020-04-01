@@ -32,16 +32,16 @@ This will help students begin freelancing and connect with other students who ma
 
 Mockup Page Ideas:
 
-Landing Page
-Services Page 
-Profile Page -> Connections -> Post Services
-Edit Profile Page
+1. Landing Page 
+2. Services Page  
+3. Profile Page 
+4. Edit Profile Page 
 
 Case Ideas: 
 
-New User - visits page, signs up, enters information, visits home page
-Admin User - visits page, logs in, is able to see and edit everyones profile
-Existing User - visits page, browses services, maybe posts a service, and waits to connect with other students using the app
+1. New User - visits page, signs up, enters information, visits home page. 
+2. Admin User - visits page, logs in, is able to see and edit everyones profile. 
+3. Existing User - visits page, browses services, maybe posts a service, and waits to connect with other students using the app.
 
 Beyond the basics:
 
