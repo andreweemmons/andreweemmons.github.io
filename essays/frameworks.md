@@ -16,5 +16,5 @@ Using frameworks has allowed myself to become more creative when building a cust
 
 Overall, I would suggest anyone getting into building websites to start looking at UI Frameworks. They help us design, and provide us with many different options when it comes to creating a website. Frameworks also seem to be up to date to help us achieve a more modern look in our websites. Through my experience, frameworks have helped me design web pages that need to look a specific way, and have specific elements added to them. By using grids, containers, and other elements frameworks come with, we can easily achieve a look that we want, and shouldn’t overlook using frameworks at all. All in all, I believe that if you haven’t tried using a framework yet, you should see how many different alternatives they provide, to save yourself some frustration!
 
+<img class="ui medium right floated rounded image" src="/images/selectionsort.png">
 
-*“Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime."* - Maimonides
