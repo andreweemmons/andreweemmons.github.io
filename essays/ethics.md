@@ -14,7 +14,7 @@ labels:
 
 Ethics in Software Engineering means to take into account those around us in the field of Technology. It is a way of showing moral understanding and responsibility not only as human beings, but as having an impact on our stakeholders. Having stakeholders who rely on our code indicates that we need to ensure our code functions not only "just to work" but also to the standard which takes into account what happens on the other side. The safety and security of those who are impacted either directly or indirectly by our code shows that we have to ensure measures to protect our users. I believe that privacy is a big deal for us to consider as software engineers, so it is vital to always consider the privacy of those affected by the code which we write.
 
-<h2>A Case Study:</h2>
+<h2>A Case Study</h2>
 
 The situation I was able to analyze was the "Privacy" case, which had a negative impact on the privacy of those who were involved in the app. As privacy is a big issue, it continues to grow at the rate of the expansion of software development. "Google Streetview" was launched in 2007, and displayed both street views of public locations as well as aerial views. Complications came about when people's privacy was invaded publicly. Google displayed images of those found at a breach of their privacy. Google was also found collecting personal data and storing it. However, they denied that and it was later found out to be a fraud statement. Eventually, Google was sued and had to pay fines. 
 
