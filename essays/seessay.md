@@ -1,13 +1,13 @@
 ---
 layout: essay
 type: essay
-title: Software Engineering 
+title: Reflection on Software Engineering 
 date: 2020-05-15
 labels:
-  - UI Frameworks
-  - Semantic
-  - HTML
-  - CSS
+  - Frameworks
+  - Ethics
+  - Reflection
+  - Perspective
 ---
 
 Taking Software Engineering has allowed myself to become a much better programmer in many ways. I learned that although much of programming requires problem solving and thinking outside the box, we must also empathize with those who are using our applications. Being a programmer does not mean that I am becoming a robot, but I am becoming even more human. When we write programs, people are directly and indirectly affected by our code in different ways. Being able to communicate effictively with anybody, having great progamming skills, and maintaing an ethical perspective as programmer are some of the many ways that Software Engineering has helped me become a better programmer.
