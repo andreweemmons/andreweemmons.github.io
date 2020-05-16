@@ -51,8 +51,11 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
+        "JavaScript",
+        "React.js",
+        "Meteor.js",
+        "MongoDB",
         "Java",
-        "Javascript",
         "HTML",
         "CSS",
         "PHP",
