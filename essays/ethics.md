@@ -23,3 +23,5 @@ In this case, I found that many of the scenarios created by Google disregarded t
 <h2>My final thoughts</h2>
 
 Overall, I believe that the proper ethical stance to have been taken is that Google should have reacted faster to individual complaints. This is because even though they took some action, the privacy of those in complaint was still violated until they took action. I also believe that Google did not pay enough in fines, since they were sued for only a "fraction of the profit". Google should have taken more responsibility, and owned up to their actions earlier. I would further like to know how Google did not take these into probability when creating the app. All in all, I think that Google violated many Software Engineering Ethics, and should have owned up to them for the sake of the situation, and the future of the ethical duty of the company. 
+
+*“Subtlety may deceive you; integrity never will."* - Goldsmith
