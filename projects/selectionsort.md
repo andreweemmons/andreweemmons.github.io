@@ -12,7 +12,7 @@ labels:
 summary: Selection sort is a sorting algorithm that I was able to learn last semester.
 ---
 
-<img class="ui medium right floated rounded image" src="/images/selectionsort.png">
+<img class="ui medium right floated rounded image" src="/images/selection.png">
 
 Selection sort is one of the many sorting algorithms I learned throughout my journey as a Computer Science major at UH Manoa. Last semester, we were required to write a selection sort algorithm in Java and demonstrate it's example by allowing the user to see how it takes place in the console. The project consisted of creating an array with random values, and sending it to the console, unsorted. After that, the array gets sorted through an algorithm I wrote in Java and displays it out on the console. The user has the option to see another array get sorted through this process.
 
