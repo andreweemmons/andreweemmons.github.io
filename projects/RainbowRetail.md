@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/selectionsort.png
+image: images/rainbowretail.png
 title: Rainbow Retail (Meteor.js)
-permalink: projects/selectionsort
+permalink: projects/rainbowretail
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-28
 labels:
