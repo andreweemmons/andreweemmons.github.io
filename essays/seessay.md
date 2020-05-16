@@ -28,3 +28,6 @@ Overall, Software Engineering has allowed myself to become a better programmer, 
 
 
 <img class="ui medium image" src="/images/reflection.jpg">
+
+*Photo cred- Comfreak*
+
