@@ -22,5 +22,5 @@ Our app, called "Rainbow Retail", is an app that allows UH Manoa students to con
 
 Overall, this app has allowed myself and others to work effectively in teams, and focus on specific problems to combine in order to create a working web application. I enjoy working with other people, because you can focus on specific problems and learn in depthly about that specific part of the web application. My experience using Meteor and React has been relatively good, in the sense that they are all modern technologies and up to date. It's much easier than hard coding in Javascript, CSS, and HTML, and can help you make something that people would want to use in our day of age. In conclusion, I hope to continue my journey as a programmer, and learn more about React.js and Meteor to build web applications. They allow for much versatility, and have many cool back end features such as MongoDB. I will keep striving to become a better team mate and programmer, and hope one day I will be able to apply this to a real world scenario. 
 
-Our project can be found here: http://rainbowretail.meteorapp.com/
+Our project can be found here: https://renigmaflea.github.io/
 
