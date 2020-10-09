@@ -21,4 +21,4 @@ My role in Cloud Canvas is the frontman. I am the singer songwriter, and my band
 This experience has taught me a lot. From this, I have become a better public speaker, and know how to better engage an audience. I believe that this is a skill that can be used universally in many different situations. This experience also taught me the value of marketing a product and believing in something that isn't necessarily going to give you much in return. However, the satisfaction from being able to perform more and keep playing is what keeps me going. It has taught me that finding a passion in life is very important, and can help us achieve our goals. 
 
 
-You can listen to us here: https://www.youtube.com/watch?v=lOnQ5ffmu3E
+Visit our website at cloudcanvasmusic.com (website fully coded by myself)
