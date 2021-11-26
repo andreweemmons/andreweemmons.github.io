@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/selectionsort.png
-title: Selection Sort
+image: https://www.python.org/static/community_logos/python-logo-master-v3-TM.png
+title: Python Random Numbers
 permalink: projects/python
 # All dates must be YYYY-MM-DD format!
 date: 2021-11-25
