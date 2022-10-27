@@ -29,18 +29,18 @@ For translator:
 	Moo/korean-parallel-corpora 
 
 
-<img class="ui large image" src="/images/Korean-1.jpg">
+<img class="ui large image" src="/images/Korean-1.png">
 
-<img class="ui large image" src="/images/Korean2.jpg">
+<img class="ui large image" src="/images/Korean2.png">
 
-<img class="ui large image" src="/images/Korean3.jpg">
+<img class="ui large image" src="/images/Korean3.png">
 
-<img class="ui large image" src="/images/Korean4.jpg">
+<img class="ui large image" src="/images/Korean4.png">
 
-<img class="ui large image" src="/images/Korean5.jpg">
+<img class="ui large image" src="/images/Korean5.png">
 
-<img class="ui large image" src="/images/Korean6.jpg">
+<img class="ui large image" src="/images/Korean6.png">
 
-<img class="ui large image" src="/images/Korean7.jpg">
+<img class="ui large image" src="/images/Korean7.png">
 
-<img class="ui large image" src="/images/Korean8.jpg">
+<img class="ui large image" src="/images/Korean8.png">
