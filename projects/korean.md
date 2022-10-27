@@ -2,10 +2,10 @@
 layout: project
 type: project
 image: images/Korean-1.png
-title: Rainbow Retail (Meteor.js)
-permalink: projects/rainbowretail
+title: Korean App
+permalink: projects/korean
 # All dates must be YYYY-MM-DD format!
-date: 2019-09-28
+date: 2022-10-27
 labels:
   - Meteor
   - React
