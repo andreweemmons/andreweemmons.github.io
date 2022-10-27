@@ -11,7 +11,7 @@ labels:
   - React
   - Semantic
   - Programming
-summary: Rainbow Retail is the app that I created with other team members for our final ICS 314 Project.
+summary: 
 ---
 
 Technologies Used:
